@@ -1,1 +1,1 @@
-# identifyint entities in healtcare tes=xt corpus
+# identifying entities in healthcare text corpus
